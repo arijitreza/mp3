@@ -711,7 +711,11 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil5/THE%20POWER
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/The%20White%20Tiger%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Wife
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wife%202021.mp4
-#EXTINF:-1 group-title="Chinese Movie" tvg-logo="https://cdn.le-vpn.com/wp-content/uploads/2017/08/China.png", Chinese
+
+
+-=Chinese=-
+
+#EXTINF:-1 group-title="ChineseMovies" tvg-logo="https://cdn.le-vpn.com/wp-content/uploads/2017/08/China.png", Chinese
 https://tiny-bush-b709.pihife6968.workers.dev/d8f7817818582dabec95552537bc5f89/drivebot.pro/Redrum___40_2022__41__Bengali_720p.mkv
 
 
